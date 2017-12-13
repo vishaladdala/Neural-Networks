@@ -1,0 +1,55 @@
+AdultCensusLog
+
+1)
+enter the training percent 80
+enter error tolerance 1
+enter number of epoches 5
+enter number of hidden layers 3
+enter neurons in each layer 6
+enter neurons in each layer 6
+enter neurons in each layer 6
+train error=0.376
+Test Error is
+0.2541894806703169
+Accuracy for test model
+74.58105193296831
+
+2)
+enter the training percent 80
+enter error tolerance 2
+enter number of epoches 2
+enter number of hidden layers 2
+enter neurons in each layer 15
+enter neurons in each layer 15
+train error=0.416
+Test Error is
+0.2541894806703169
+Accuracy for test model
+74.58105193296831
+
+3)
+enter the training percent80
+enter error tolerance2
+enter number of epoches2
+enter number of hidden layers2
+enter neurons in each layer2
+enter neurons in each layer2
+train error=0.376
+Test Error is
+0.2541894806703169
+Accuracy for test model
+74.58105193296831
+
+
+4)
+enter the training percent80
+enter error tolerance0.02
+enter number of epoches10
+enter number of hidden layers1
+enter neurons in each layer16
+train error=0.422
+Test Error is
+0.2541894806703169
+Accuracy for test model
+74.58105193296831
+  
